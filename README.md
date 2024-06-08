@@ -1,3 +1,2 @@
-I am an IST student at Penn State with a keen interest in computer software. Currently, I am developing CTFGuide, a service that streams Linux machines to browsers using Docker and Node.js. I’m in the process of seeking pre-seed funding for this project. As the lead for frontend development, I also built the initial backend.
 
-I have been accepted for a software engineering internship where I’ll work on client projects and internal tooling using AngularJS, Node.js, Azure, and Kubernetes. Additionally, I’m involved in projects focusing on graph structures and generating unique unlabeled graphs. I’m implementing upvote and downvote functionality in a project and aiming to secure a software engineering internship at Wayfair.
+I am an IST student at Penn State with a keen interest in computer software. 
